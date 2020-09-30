@@ -1,4 +1,9 @@
 # Schedulator
  A program to optimize courses schedule for university students
  
- data_gathering - scrape the data and organize it with regex.
+ 
+maslulim_scraper - scrape all the maslulim options.
+courses_scrape - scrape the courses of every maslul.
+
+
+Jonathan_playground - at is sounds

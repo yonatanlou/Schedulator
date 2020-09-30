@@ -1,14 +1,17 @@
 # Schedulator
  A program to optimize courses schedule for university students
  
-files:
-maslulim_scraper - scrape all the maslulim options.
-courses_scrape - scrape the courses of every maslul.
+ <br />
+ <br />
+ 
+### Files:
+1. maslulim_scraper - scrape all the maslulim options.
+2. courses_scrape - scrape the courses of every maslul.
 
-Jonathan_playground - as it sounds
+3. Jonathan_playground - as it sounds
 
 
-tasks:
+### Tasks:
 maslulim_scraper -
 * finish the func hugim scraper that will be compatible with maslulim also as well.
 

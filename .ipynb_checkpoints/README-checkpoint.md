@@ -7,6 +7,7 @@
 ### Files:
 1. maslulim_scraper - scrape all the maslulim options.
 2. courses_scrape - scrape the courses of every maslul.
+3. db_writer - writing tables into local sql server/cloud.
 
 3. Jonathan_playground - as it sounds
 

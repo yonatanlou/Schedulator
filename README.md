@@ -16,5 +16,3 @@ maslulim_scraper -
 * finish the func hugim scraper that will be compatible with maslulim also as well.
 
 
-DB infrastructure 
-![alt text](https://github.com/[yonatanlou]/[Schedulator]/blob/[master]/Schedulator.png?raw=true)
